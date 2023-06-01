@@ -60,4 +60,6 @@ Let's collaborate and build something amazing together!
 
 ## :trophy: GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-profile&show_icons=true&theme=dark)](https://github.com/Bhanuteja01)
+[![teja GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuteja01&show_icons=true&theme=dark)](https://github.com/Bhanuteja01/)
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://your-grafana-dashboard-url)
+
